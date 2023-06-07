@@ -2,7 +2,7 @@
 <h1 align="center"> isiinAja </h1> <br>
 <p align="center">
   <a>
-    <img alt="isiinAja" title="isiinAja" src="https://imgur.com/0e0NqdM.png">
+    <img alt="WFD" title="WFD" src="https://github.com/naufalmufidf/Wrinkle-Face-Detection/blob/main/.github/images/WFD%20-%20Loading.jpg">
   </a>
 </p>
 
