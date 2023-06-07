@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center"> isiinAja </h1> <br>
+<h1 align="center"> Wrinkle Face Detection </h1> <br>
 <p align="center">
   <a>
     <img alt="WFD" title="WFD" src="https://github.com/naufalmufidf/Wrinkle-Face-Detection/blob/main/.github/images/WFD%20-%20Loading.jpg">
@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-  isiinAja. isi pulsa dimana aja, kapan aja.
+  Detect wrinkles in face from input image.
 </p>
+
+<div align="center">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+</div> 
 
 <!-- TABLE OF CONTENTS -->
 <details>
