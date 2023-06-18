@@ -21,9 +21,10 @@
 💻 Wrinkle-Face-Detection Expanding on my previous achievement in the cracks detection applivation, I am excited to introduce my next project, Wrinkles Face Detection. This application can be used to assess the prominence of wrinkles on a face.
 
 # ❓ How it works
+## Load Image
 
 <div align="center">
-    <img src="https://imgur.com/pbTuRjG.png">
+    <img src="https://github.com/naufalmufidf/Wrinkle-Face-Detection/blob/main/.github/images/WFD%20-%20Layout.jpg">
 </div>  
 
 First, we load the image that will be processed from the file explorer by clicking "Load Image".
