@@ -22,7 +22,11 @@
 
 # ❓ How it works
 
+<div align="center">
+    <img src="https://imgur.com/pbTuRjG.png">
+</div>  
 
+First, we load the image that will be processed from the file explorer by clicking "Load Image".
 
 
 # 
