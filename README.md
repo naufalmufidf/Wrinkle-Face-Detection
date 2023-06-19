@@ -24,8 +24,8 @@
 ## Load Image
 
 <div align="center">
-    <img src="https://github.com/naufalmufidf/Wrinkle-Face-Detection/blob/main/.github/images/WFD%20-%20Layout.jpg">
-</div>  
+    <img src="https://github.com/naufalmufidf/Wrinkle-Face-Detection/blob/main/.github/images/WFD%20-%20Layout.jpg" height=400 width>
+</div>
 
 First, we load the image that will be processed from the file explorer by clicking "Load Image".
 
